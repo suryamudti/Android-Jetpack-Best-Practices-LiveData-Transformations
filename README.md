@@ -3,11 +3,13 @@ LiveData Transformations - Solution Code
 
 Use as starter code for the LiveData and ViewModel codelab.
 
+<a href="https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-transformations/index.html?index=..%2F..android-kotlin-fundamentals">Codelab link</a>
+
 Introduction
 ------------
 
 This starter app is a two player game, GuessTheWord. It is a word guessing app you can play with one or more friends. To play, hold the device in landscape, facing away from you with your thumbs on the **Skip** and **Got It** buttons. Your friends can then give you clues to help you guess the word. If you get the word right, press **Got It**. If you're stuck, press **Skip** or you can use the **End** button to end the game.
-This code demostrates the Android Architecture components, LiveData and LiveData observer pattern.
+This code demonstrates the Android Architecture components, LiveData and LiveData observer pattern.
 
 Pre-requisites
 --------------
